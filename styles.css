@@ -38,3 +38,22 @@ body {
 #synonyms{
     margin:2px;
 }
+
+.done
+{
+    background-color: rgba(182, 194, 192, 0.747);
+}
+
+.notDone
+{
+    background-color: rgb(113, 160, 201);
+}
+
+.notDone2
+{
+    background-color: rgb(123, 159, 190);
+}
+
+.notDone3{
+    background-color: rgb(130, 181, 226);
+}
