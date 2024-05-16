@@ -1,0 +1,40 @@
+body {
+    background-color: #f0f0f0d3;
+    margin: 0;
+}
+
+.task1ol {
+    background-color: #e0a6b8;
+    padding: 20px;
+    list-style-type: decimal;
+    
+}
+
+.li{
+    background-color: #d0899a;
+    margin: 10px 0;
+    padding: 10px;
+    
+}
+
+.span {
+    background-color: #b95770;
+    padding: 10px 10px;
+} 
+ 
+/* dt{
+     font-style: strong;
+    font-family:  'serif';
+    font-weight: 500;  Pocemu ne rabotaet?
+} */
+
+.nounVerb{
+    list-style-type: none;
+    /*margin-left:0 px;
+    padding-left:0 px;  noun ne smogla otodvinut nalevo */
+
+}
+
+#synonyms{
+    margin:2px;
+}
