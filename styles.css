@@ -1,0 +1,77 @@
+body {
+    background-color: #f0f0f0d3;
+    margin: 0;
+}
+
+.task1ol {
+    background-color: #e0a6b8;
+    padding: 20px;
+    /* list-style-type: decimal; */
+    
+}
+
+
+
+.li{
+    background-color: #d0899a;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+
+
+.span {
+    background-color: #b95770;
+    padding: 10px 10px;
+} 
+ 
+/* dt{
+     font-style: strong;
+    font-family:  'serif';
+    font-weight: 500;  Pocemu ne rabotaet?
+} */
+
+.nounVerb{
+    list-style-type: none;
+    /*margin-left:0 px;
+    padding-left:0 px;  noun ne smogla otodvinut nalevo */
+
+}
+
+#synonyms{
+    margin:2px;
+}
+
+.done
+{
+    background-color: rgba(182, 194, 192, 0.747);
+    text-decoration: line-through;
+    margin-right: 30px;
+     list-style-image: url(./square-check-svgrepo-com.svg ); 
+}
+    
+
+
+
+.notDone
+{
+    background-color: rgb(113, 160, 201);
+    margin-right: 30px;
+}
+
+.notDone2
+{
+    background-color: rgb(123, 159, 190);
+    margin-right: 30px;
+}
+
+.notDone3{
+    background-color: rgb(130, 181, 226);
+    margin-right: 30px;
+}
+
+.main{
+    background-color: darkgrey;
+    padding-bottom: 20px;
+    list-style-image: url(./square-svgrepo-com.svg);
+}
